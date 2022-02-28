@@ -20,3 +20,4 @@ In the .sleeve CSS rule, add the border-left-width property with the value 10px
   background-color: rgba(255, 255, 255, 0.5);
   border-left-width: 10px;
 }
+In the .sleeve CSS rule, add the border-left-color property with the value black
