@@ -7,3 +7,9 @@ Opacity describes how opaque, or non-transparent, something is. For example, a s
   background-color: white;
 }
 In the .sleeve CSS rule, set the opacity property to 0.5.
+.sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: white;
+  opacity: 0.5;
+}
