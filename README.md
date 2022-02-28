@@ -28,4 +28,5 @@ In the .sleeve CSS rule, add the border-left-color property with the value black
   border-left-width: 10px;
   border-left-style: solid;
   border-left-color: black;
+  
 }
